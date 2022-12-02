@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Ksp Smart Home',
       theme: ThemeData(
+        
         primarySwatch: Colors.blue,
       ),
       home: const navBarScreen(),
